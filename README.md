@@ -1,4 +1,4 @@
 # 36350
-R course
+Temporary edit.
 
-This is my first edit to the GitHub.
+This is my first edit to the GitHub repo.
